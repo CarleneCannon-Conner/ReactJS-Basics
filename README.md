@@ -1,5 +1,6 @@
 # ReactJS-Basics
 ## Current Branches
+
 ### 01-setup
 * Install npm https://nodejs.org/en/
 
@@ -40,3 +41,16 @@ src/
 * Add bootstrap css for easy styles
 * Add an anchor for root app to be loaded into
 * Add a root component
+
+### 03-multiple-component
+* Add a components directory with a Header and a Home file
+```
+src/
+    app/
+        components/
+        Header.js
+        Home.js
+```
+* In the header file create a component with simple nav bar with Home as an item
+* In the Home file create a very simple component
+* Amend index file to include these two new components
