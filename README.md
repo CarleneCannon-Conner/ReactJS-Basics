@@ -37,6 +37,6 @@ src/
     index.js
 ```
 ### 02-first-component
-* Added bootstrap css for easy styles
-* Added an anchor for root app to be loaded into
+* Add bootstrap css for easy styles
+* Add an anchor for root app to be loaded into
 * Add a root component
