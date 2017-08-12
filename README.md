@@ -41,11 +41,14 @@ src/
     index.js
 ```
 
+[top](#current-branches)
+
 ### 02 First Component
 * Add bootstrap css for easy styles
 * Add an anchor for root app to be loaded into
 * Add a root component
 
+[top](#current-branches)
 
 ### 03 Multiple Components
 * Add a components directory with a Header and a Home file
@@ -59,3 +62,5 @@ src/
 * In the header file create a component with simple nav bar with Home as an item
 * In the Home file create a very simple component
 * Amend index file to include these two new components
+
+[top](#current-branches)
