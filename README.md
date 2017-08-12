@@ -1,7 +1,10 @@
 # ReactJS-Basics
 ## Current Branches
+* [01-setup](#01-setup)
+* [02-first-component](#02-first-component)
+* [03-multiple-components](#03-multiple-components)
 
-### 01-setup
+### 01 Setup
 * Install npm https://nodejs.org/en/
 
 * Make directory
@@ -19,12 +22,12 @@ cd reactjs-basics
 nmp init
 ```
 
-* Obtain dependancies
+* Obtain dependencies
 ```
 npm install react react-dom --save
 ```
 
-* Obtain development dependancies
+* Obtain development dependencies
 ```
 npm install webpack webbpack-dev-server babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-2 --save-dev
 ```
@@ -37,12 +40,14 @@ src/
   app/
     index.js
 ```
-### 02-first-component
+
+### 02 First Component
 * Add bootstrap css for easy styles
 * Add an anchor for root app to be loaded into
 * Add a root component
 
-### 03-multiple-component
+
+### 03 Multiple Components
 * Add a components directory with a Header and a Home file
 ```
 src/
