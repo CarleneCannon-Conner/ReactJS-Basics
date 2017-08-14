@@ -1,6 +1,8 @@
 # ReactJS-Basics
-## Run App
+## Aim
+Become familiar with the ReactJS library and document progress
 
+## Run App
 * Clone or download repository
 * Install dependancies
 ```
