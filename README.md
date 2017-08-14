@@ -1,4 +1,20 @@
 # ReactJS-Basics
+## Run App
+
+* Clone or download repository
+* Install dependancies
+```
+  npm install
+```
+* Start server
+```
+npm start
+```
+* By default the application will be running at:
+```
+http://localhost:8081/
+```
+
 ## Current Branches
 * [01-setup](#01-setup)
 * [02-first-component](#02-first-component)
