@@ -1,6 +1,6 @@
 # ReactJS-Basics
 ## Aim
-Become familiar with the ReactJS library and document progress
+Become familiar with the ReactJS library and document my progress
 
 ## Run App
 * Clone or download repository
