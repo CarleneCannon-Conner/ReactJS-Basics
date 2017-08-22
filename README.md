@@ -47,7 +47,7 @@ npm install react react-dom --save
 
 * Obtain development dependencies
 ```
-npm install webpack webbpack-dev-server babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-2 --save-dev
+npm install webpack webpack-dev-server babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-2 --save-dev
 ```
 
 * Manually create the following files under a src and app directory:
